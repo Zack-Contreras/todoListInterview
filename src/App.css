@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.user-input {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.user-input input {
+  color: white;
+}
+
+.todo-filter label,
+.todo-filter input {
+  color: white;
+}
