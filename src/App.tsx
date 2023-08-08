@@ -3,7 +3,6 @@ import CheckboxList from "./components/CheckboxList";
 
 /**
  * 
-ashok.thota9@gmail.com
 
 List component should:
 
